@@ -10,6 +10,7 @@ Apresentar os dados persistidos ao usuário;<br>
 Filtrar autores vivos em determinado ano e livros com uma linguagem específica.<br>
 
 Tecnologias utilizadas
+
 Java (JDK 17)<br>
 Spring Boot<br>
 Hibernate<br>
